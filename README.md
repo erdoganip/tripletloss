@@ -1,4 +1,6 @@
-# Term Project Paper Implementation: Clustering Millions of Faces by Identities
+# Term Project Paper Implementation
+
+## Clustering Millions of Faces by Identities
 
 Güray Baydur, İpek Erdoğan
 
