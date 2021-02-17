@@ -2,7 +2,7 @@
 by Güray Baydur and İpek Erdoğan
 ## Clustering Millions of Faces by Identities
 
-Güray Baydur, İpek Erdoğan
+This repository contains an implementation of [this](https://arxiv.org/pdf/1604.00989.pdf) paper.
 
 This project is builded by making some modifications on this skeleton: https://github.com/sanku-lib/image_triplet_loss
 
