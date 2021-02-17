@@ -1,5 +1,5 @@
 # Term Project Paper Implementation
-
+by Güray Baydur and İpek Erdoğan
 ## Clustering Millions of Faces by Identities
 
 Güray Baydur, İpek Erdoğan
