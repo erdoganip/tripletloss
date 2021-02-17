@@ -1,6 +1,8 @@
+# Term Project Paper Implementation: Clustering Millions of Faces by Identities
+
 Güray Baydur, İpek Erdoğan
 
-Term Project Paper: Clustering Millions of Faces by Identities
+
 
 This project is builded by making some modifications on this skeleton: https://github.com/sanku-lib/image_triplet_loss
 
